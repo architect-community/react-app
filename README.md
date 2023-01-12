@@ -45,4 +45,4 @@ $ architect deploy ./architect.yml -e example-environment
 
 ## Advanced deployment example
 
-See [this readme](https://github.com/architect-community/react-app/blob/master/github/README.md) for an advanced configuration and deployment example which includes steps to create your own AWS infrastructure all the way to automated deployments using Architect.
+See [this readme](https://github.com/architect-community/react-app/blob/main/github/README.md) for an advanced configuration and deployment example which includes steps to create your own AWS infrastructure all the way to automated deployments using Architect.
